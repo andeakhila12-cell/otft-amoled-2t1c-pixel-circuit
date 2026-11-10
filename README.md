@@ -1,1 +1,1 @@
-# otft-amoled-2t1c-pixcel-circuit
+# otft-amoled-2t1c-pixel-circuit
